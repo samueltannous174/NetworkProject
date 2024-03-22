@@ -1,0 +1,41 @@
+body {
+  background-color: lightgrey;
+}
+h1 {
+  color: blue;
+}
+.image1{
+    padding-left: 25%;
+}
+.image2{
+    padding-left: 10%;
+}
+.username {
+    font-weight: bold;
+}
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: black;
+}
+
+.flex-container > div {
+    background-color: lightgrey;
+    width: 33%;
+    margin: 10px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 30px;
+}
+.url{
+    background-color: lightgrey;
+    width: 100%;
+    margin: 10px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 30px;
+}
+
+
+
+
